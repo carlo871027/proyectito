@@ -1,0 +1,3 @@
+Fatal
+Las excepciones fatales se generan cuando ocurre una condición que impide que el proceso del nodo de integración continúe con la ejecución de forma segura, o cuando la política del nod fatales son la imposibilidad de adquirir un recurso crítico del sistema o un error de software grave detectado internamente. El proceso del nodo de integración finaliza tras el lanzamiento de una excepción irrecuperable. Se registran las excepciones fatales.
+Recuperable fatales son la imposibilidad de adquirir un recurso crítico del sistema o un error de software grave detectado internamente. guia de la locacion 
