@@ -1,0 +1,2 @@
+Fatal
+Las excepciones fatales se generan cuando ocurre una condición que impide que el proceso del nodo de integración continúe con la ejecución de forma segura, o cuando la política del nod fatales  excepciones se capturan en las capas de software relevantes en el nodo de integración y se manejan en consecuencia. Sin embargo, los programas escritos en C no pueden detectar las excepciones de C ++ y todas las excepciones generadas, de forma predeterminada, omiten todo el código de extensión definido por el usuario de C
